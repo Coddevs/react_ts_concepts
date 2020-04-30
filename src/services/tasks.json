@@ -1,0 +1,20 @@
+[
+  {
+    "uid": "1b6575da-1761-4b7d-9671-e7108ab16a18",
+    "title": "My task #1",
+    "description": "This description #1",
+    "done": false
+  },
+  {
+    "uid": "b97d998c-4b34-47cc-99e9-b736dc854f09",
+    "title": "My task #2",
+    "description": "This description #2",
+    "done": true
+  },
+  {
+    "uid": "d300c4a7-7b5b-4711-a0c0-c938b1698db7",
+    "title": "My task #3",
+    "description": "This description #3",
+    "done": false
+  }
+]
